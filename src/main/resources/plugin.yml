@@ -1,0 +1,11 @@
+name: First Person Shooter
+version: '${project.version}'
+main: com.vsepecan.firstpersonshooter.FirstPersonShooter
+api-version: 1.19
+authors: [ Vasilije_Sepecan ]
+description: Multiplayer first person shooter video game.
+commands:
+  fps:
+    usage: "Usage: /fps <teams> <weapons>"
+  leavefps:
+    usage: "Usage: /leavefps"

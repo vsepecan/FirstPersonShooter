@@ -1,0 +1,31 @@
+number-of-players-in-match: 10
+countdown-seconds: 15
+game-seconds: 300
+default-weapon-type: minigun
+
+blue-team-spawn-location:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+red-team-spawn-location:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+
+leave-location:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+
+database-credentials:
+  host:
+  port:
+  database:
+  user:
+  password:
